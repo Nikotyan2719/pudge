@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ru">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Dota2</title>
+    <link rel="shortcut icon" href="img/dota2.jpg">
+    <link rel="stylesheet" href="css/wwrkk.css">
+
+
+  </head>
+
+  <body>
+    <div class="title">
+      <div class="heroesjpeg">
+        <img class="hjpeg" src="img/horoes.PNG">
+      </div>
+    </div>
+    <div class="main">
+      <h1 class="text1">All DOTA HEROES</h1>
+      <div class="allheroes">
+        <div class="heroes">
+          <p class="nameheroes">ПАДЖ</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+        <div class="heroes">
+          <p class="nameheroes">РЖАДЖ</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+        <div class="heroes">
+          <p class="nameheroes">ДОБРЯК ГУФ</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+        <div class="heroes">
+          <p class="nameheroes">БУЧКА</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+        <div class="heroes">
+          <p class="nameheroes">БАЧЕР</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+        <div class="heroes">
+          <p class="nameheroes">РУДГЕ</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+        <div class="heroes">
+          <p class="nameheroes">ПЭЙДЖЕР</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+        <div class="heroes">
+          <p class="nameheroes">ПИДЖАК</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+        <div class="heroes">
+          <p class="nameheroes">HOOKER</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+        <div class="heroes">
+          <p class="nameheroes">АЛЬ ПАДЖИНО</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+        <div class="heroes">
+          <p class="nameheroes">ЧИНЧОПА ХУКЖОПА</p>
+          <a href="https://www.dota2.com/hero/pudge"> <img class="fotoheroes" src="img/unnamed.jpg">
+          </a>
+        </div>
+
+      </div>
+
+    </div>
+  </body>
+
+
+</html>
